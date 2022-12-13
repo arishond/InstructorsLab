@@ -1,0 +1,307 @@
+[25-Nov-2022 09:59:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:04:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:06:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:06:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:07:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:07:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:07:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:07:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:12:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:14:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:14:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:14:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:14:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:22:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:24:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:24:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:25:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:26:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:26:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:26:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:26:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:26:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:26:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:27:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ilabuser'@'localhost' (using password: YES) in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:28:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:28:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:28:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:10 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ilab.site_info' doesn't exist in engine in C:\xampp\htdocs\ilab\core\app.php:20
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\app.php(20): mysqli_query(Object(mysqli), 'SELECT title,de...')
+#1 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\app.php on line 20
+[25-Nov-2022 10:29:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'ilab' in C:\xampp\htdocs\ilab\core\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\functions.php(11): mysqli_connect('localhost', 'ilabuser', '1234', 'ilab')
+#1 C:\xampp\htdocs\ilab\index.php(22): dbConncet('localhost', 'ilabuser', '1234', 'ilab')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\core\functions.php on line 11
+[25-Nov-2022 10:37:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php:156
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\ajax.php(58): drawPHPCap(Array)
+#1 C:\xampp\htdocs\ilab\core\app.php(158): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(25): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php on line 156
+[29-Nov-2022 00:26:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php:156
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\ajax.php(58): drawPHPCap(Array)
+#1 C:\xampp\htdocs\ilab\core\app.php(158): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php on line 156
+[07-Dec-2022 16:03:01 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in C:\xampp\htdocs\ilab\theme\default\output\backlink_checker.php:78
+Stack trace:
+#0 C:\xampp\htdocs\ilab\theme\default\output\backlink_checker.php(78): number_format('')
+#1 C:\xampp\htdocs\ilab\index.php(23): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\ilab\theme\default\output\backlink_checker.php on line 78
+[07-Dec-2022 16:30:29 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_count_values(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\ilab\core\models\kd.php:739
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\models\kd.php(739): array_count_values(NULL)
+#1 C:\xampp\htdocs\ilab\core\models\kd.php(765): KD->calcDensity()
+#2 C:\xampp\htdocs\ilab\core\controllers\seotools.php(311): KD->result()
+#3 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\ilab\core\models\kd.php on line 739
+[07-Dec-2022 16:31:00 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_count_values(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\ilab\core\models\kd.php:739
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\models\kd.php(739): array_count_values(NULL)
+#1 C:\xampp\htdocs\ilab\core\models\kd.php(765): KD->calcDensity()
+#2 C:\xampp\htdocs\ilab\core\controllers\seotools.php(311): KD->result()
+#3 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\ilab\core\models\kd.php on line 739
+[07-Dec-2022 17:13:02 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_unique(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\ilab\core\helpers\reverse_ip_helper.php:40
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\helpers\reverse_ip_helper.php(40): array_unique(NULL)
+#1 C:\xampp\htdocs\ilab\core\controllers\seotools.php(670): reverseIP('172.217.31.206')
+#2 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\reverse_ip_helper.php on line 40
+[07-Dec-2022 17:13:14 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_unique(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\ilab\core\helpers\reverse_ip_helper.php:40
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\helpers\reverse_ip_helper.php(40): array_unique(NULL)
+#1 C:\xampp\htdocs\ilab\core\controllers\seotools.php(670): reverseIP('172.217.163.174')
+#2 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\reverse_ip_helper.php on line 40
+[07-Dec-2022 17:24:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp\htdocs\ilab\core\helpers\site_snapshot_helper.php:30
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\seotools.php(791): getSiteSnap('youtube.com', '123-321-321')
+#1 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\site_snapshot_helper.php on line 30
+[07-Dec-2022 17:24:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefromjpeg() in C:\xampp\htdocs\ilab\core\helpers\site_snapshot_helper.php:30
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\seotools.php(791): getSiteSnap('10minuteschool....', '123-321-321')
+#1 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\site_snapshot_helper.php on line 30
+[07-Dec-2022 18:07:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php:156
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\ajax.php(58): drawPHPCap(Array)
+#1 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php on line 156
+[07-Dec-2022 18:07:45 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in C:\xampp\htdocs\ilab\admin\controllers\captcha-protection.php:26
+Stack trace:
+#0 C:\xampp\htdocs\ilab\admin\controllers\captcha-protection.php(26): in_array('register_page', NULL)
+#1 C:\xampp\htdocs\ilab\admin\app.php(83): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\admin\index.php(41): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\admin\controllers\captcha-protection.php on line 26
+[07-Dec-2022 18:08:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php:156
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\ajax.php(58): drawPHPCap(Array)
+#1 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php on line 156
+[07-Dec-2022 18:08:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php:156
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\ajax.php(58): drawPHPCap(Array)
+#1 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php on line 156
+[07-Dec-2022 18:08:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php:156
+Stack trace:
+#0 C:\xampp\htdocs\ilab\core\controllers\ajax.php(58): drawPHPCap(Array)
+#1 C:\xampp\htdocs\ilab\core\app.php(153): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ilab\index.php(19): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\ilab\core\helpers\cap_helper.php on line 156

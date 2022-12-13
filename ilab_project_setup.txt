@@ -1,0 +1,20 @@
+ilab project setup 
+
+move the ilab folder to xampp/htdocs/ 
+
+go to phpmyadmin
+	- create a database name ilab
+	- select the database
+	- import ilab.sql
+	- create an user account
+		- name ilabuser
+		- host localhost
+		- pass 1234
+		- Create database with same name and grant all privileges.
+		- Grant all privileges on wildcard name (username\_%).
+		- global previleges check all.
+
+
+admin url: ilab/admin
+pass: 1234
+email: ilab@ilab.com
